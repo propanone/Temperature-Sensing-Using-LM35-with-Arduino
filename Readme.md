@@ -35,7 +35,7 @@ The LEDs and buzzer were connected to the appropriate pins on the Arduino board.
 The Bluetooth module was connected to the Arduino board for wireless communication
 with the smartphone.
 
-![[Circuit.png]]
+![Circuit](https://github.com/propanone/MiniProject1/assets/110060901/815c98ea-d57b-4446-bf87-d3656f12e8a6)
 
 ## Software Setup :
 ### Arduino Code :
